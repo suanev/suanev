@@ -10,4 +10,4 @@ Meu nome é Suane, e sou Desenvolvedora de Software, apaixonada por Frontend!
 
  - 😄 Estagiaria Software Engineering na Ilegra
  - 🔭 Tecnologias: NodeJS, ReactJS, React Native.
- - 🌱 Estudando atualmente: VueJS, AngularJS, Ionic e backend em Spring Boot :)
+ - 🌱 Estudando atualmente: VueJS, Angular, Ionic e backend em Spring Boot :)
