@@ -14,6 +14,5 @@
  - **Learning:** Angular | Ionic | Spring Boot | VueJS |Improving knowledge in technologies that I already know and use daily
  - **Hobbies:** Series | Music | TV Shows
  - **Ask me about:** Anything! I'm happy to help :v:
- - **Fun fact:**  Maybe a little obsessed with instrumental soundtracks 
  
-![Suane Vallim's github stats](https://github-readme-stats.vercel.app/api?username=suanev&hide=["contribs"]&show_icons=true&hide_border=true&icon_color=F2A516&text_color=222126&title_color=F2A516)
+![Suane Vallim github stats](https://github-readme-stats.vercel.app/api?username=suanev&hide=["contribs"]&show_icons=true&hide_border=true&icon_color=F2A516&text_color=222126&title_color=F2A516)
