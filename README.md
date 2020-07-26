@@ -10,7 +10,7 @@
   </sup>
 </h2>
 
- - **Working:** Front-end developer at Ilegra & Mobile Developer in my spare time
+ - **Working:** Front-end developer at Ilegra
  - **Learning:** Angular | Ionic | Spring Boot | VueJS | Improving knowledge in technologies that I already know and use daily
  - **Hobbies:** Series | Music | TV Shows | Games
  - **Ask me about:** Anything! I'm happy to help :v:
